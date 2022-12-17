@@ -1,0 +1,23 @@
+{
+  "name": "webscrapper1222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh2019/WebScrapper1222.git"
+  },
+  "author": "yogeshkkhichi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh2019/WebScrapper1222/issues"
+  },
+  "homepage": "https://github.com/yogesh2019/WebScrapper1222#readme",
+  "dependencies": {
+    "node": "^19.3.0"
+  }
+}
