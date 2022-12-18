@@ -19,6 +19,7 @@
   "homepage": "https://github.com/yogesh2019/WebScrapper1222#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "node": "^19.3.0"
+    "node": "^19.3.0",
+    "puppeteer": "^19.4.1"
   }
 }
